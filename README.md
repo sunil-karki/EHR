@@ -1,7 +1,7 @@
 # **EHR**
 *Work-Related Learning on Electronic Healthcare Records*
 
-## About EHR (Electronic health records) / Electronic medical records (EMR)
+## About EHR (Electronic health records)
 An EHR is a computerized collection of a patient's health records. EHRs include information like your age, gender, ethnicity, health history, medicines, allergies, immunization status, lab test results, hospital discharge instructions, and billing information.
 
 Help patients as well as health professionals. Makes it easier for you (and your parents, depending on your age) to see your health records.
@@ -24,6 +24,11 @@ This is academic work done as per the prerequisite of the course module 'Work Re
 To explore:
 - a
 - b
+
+## Technology used
+PySpark _3.3.1_
+
+Pandas _1.5.1_
 
 ## About this repository
 The repository contains a .ipynb file from [Google Colab](https://colab.research.google.com/): <ins>*https://colab.research.google.com/*</ins>
