@@ -19,16 +19,19 @@ If one doctor orders a lab test, they all see the results. If one doctor puts yo
 The source data is from SyntheaTM, an open-source, synthetic patient generator that models the medical history of synthetic patients. It provides high-quality, synthetic, realistic but not real, patient data and associated health records covering every aspect of healthcare. The resulting data is free from cost, privacy, and security restrictions, enabling research with Health IT data that is otherwise legally or practically unavailable.
 
 ## About Work-Related Learning
-This is academic work done as per the prerequisite of the course module 'Work Related Learning' performed in Cotiviti. This work is to perform data analysis and visualization of the data set(i.e Source Data mentioned).
+This is academic work done as per the prerequisite of the course module 'Work Related Learning' of [LondonMet](https://www.londonmet.ac.uk/) performed in [Cotiviti](https://www.cotiviti.com/). This work is to perform data analysis and visualization of the data set(i.e Source Data mentioned).
 
-To explore:
-- a
-- b
+To explore and perform:
+- Descriptive analysis on patients, immunization, encounters, health expenses and coverage.
+- Prescriptive analysis on providers, payers and careplans.
+- Visualization and infographics on EHR data
 
 ## Technology used
 PySpark _3.3.1_
 
 Pandas _1.5.1_
 
+Seaborn _0.12.1_
+
 ## About this repository
-The repository contains a .ipynb file from [Google Colab](https://colab.research.google.com/): <ins>*https://colab.research.google.com/*</ins>
+The repository contains .ipynb files from [Google Colab](https://colab.research.google.com/): <ins>*https://colab.research.google.com/*</ins>
